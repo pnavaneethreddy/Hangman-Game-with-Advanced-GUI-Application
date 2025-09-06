@@ -77,7 +77,9 @@ hangman-tkinter/
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your game here once available)*
+<img width="615" height="267" alt="image" src="https://github.com/user-attachments/assets/f818a016-43b8-4b1c-8a58-73f405736d6a" />
+<img width="609" height="258" alt="image" src="https://github.com/user-attachments/assets/9d4e6a3b-7739-4ef6-bb7e-763c60fb89a9" />
+<img width="615" height="263" alt="image" src="https://github.com/user-attachments/assets/ae83792d-8ed5-4344-97a9-bc21769ac76f" />
 
 ---
 
@@ -95,4 +97,4 @@ Pull requests are welcome! For major changes, open an issue first to discuss you
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** – feel free to use and modify it.  
+This project is licensed under the **MIT License** .  
