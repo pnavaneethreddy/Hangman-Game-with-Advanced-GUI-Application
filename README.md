@@ -44,8 +44,8 @@ This project is a fun way to learn **GUI programming with Tkinter**, **game logi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hangman-tkinter.git
-cd hangman-tkinter
+https://github.com/pnavaneethreddy/Hangman-Game-with-Advanced-GUI-Application.git
+cd Hangman-Game-with-Advanced-GUI-Application
 ```
 
 ### 2. Install Dependencies  
