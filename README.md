@@ -57,7 +57,7 @@ pip install pillow requests
 
 ### 3. Run the Game
 ```bash
-python hangman.py
+python Hangman Game.py
 ```
 
 ---
@@ -65,7 +65,7 @@ python hangman.py
 ## 📂 Project Structure
 ```
 hangman-tkinter/
-│-- hangman.py          # Main game file
+│-- Hangman Game.py          # Main game file
 │-- background.jpg      # Downloaded automatically if missing
 │-- README.md           # Project documentation
 ```
