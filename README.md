@@ -65,7 +65,7 @@ python Hangman Game.py
 ## 📂 Project Structure
 ```
 hangman-tkinter/
-│-- Hangman Game.py          # Main game file
+│-- Hangman Game.py       # Main game file
 │-- background.jpg      # Downloaded automatically if missing
 │-- README.md           # Project documentation
 ```
