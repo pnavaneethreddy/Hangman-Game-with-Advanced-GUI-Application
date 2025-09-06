@@ -51,11 +51,7 @@ cd hangman-tkinter
 ### 2. Install Dependencies  
 Make sure you have **Python 3.8+** installed. Install required packages using:
 ```bash
-pip install -r requirements.txt
-```
-
-If you don’t have a `requirements.txt`, install manually:
-```bash
+python --version
 pip install pillow requests
 ```
 
